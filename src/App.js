@@ -75,6 +75,7 @@ export default function App() {
           <small>
             <a
               href="https://github.com/Hazelnut76/vanilla-weather-app"
+              rel="noreferrer"
               target="_blank"
             >
               Open-source code,
