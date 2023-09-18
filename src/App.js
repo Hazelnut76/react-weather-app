@@ -45,7 +45,11 @@ export default function App() {
             <div className="row">
               <div className="col-6">
                 <div className="d-flex weather-temperature">
-                  <img src="" alt="Clear" id="icon" />
+                  <img
+                    src="https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png"
+                    alt="Cloudy icon"
+                    class="weather-icon float-left"
+                  />
                   <div>
                     <strong id="temperature">25</strong>
                     <span className="units">°C</span>
