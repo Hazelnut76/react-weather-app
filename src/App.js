@@ -74,7 +74,7 @@ export default function App() {
           </div>
           <small>
             <a
-              href="https://github.com/Hazelnut76/vanilla-weather-app"
+              href="https://precious-medovik-b37b21.netlify.app/"
               rel="noreferrer"
               target="_blank"
             >
