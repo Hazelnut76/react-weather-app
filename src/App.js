@@ -74,7 +74,7 @@ export default function App() {
           </div>
           <small>
             <a
-              href="https://precious-medovik-b37b21.netlify.app/"
+              href="https://github.com/Hazelnut76/react-weather-app"
               rel="noreferrer"
               target="_blank"
             >
